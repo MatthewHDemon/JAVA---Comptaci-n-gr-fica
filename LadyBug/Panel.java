@@ -84,8 +84,8 @@ public class Panel extends JPanel {
         Line2D linea8 = new Line2D.Double(284,178,300,191);
 
         //Lineas circulos sola
-        Line2D linea9 = new Line2D.Double(250,200,275,195);
-        Line2D linea10 = new Line2D.Double(275,195,290,205);
+        //Line2D linea9 = new Line2D.Double(250,200,275,195);
+        //Line2D linea10 = new Line2D.Double(275,195,290,205);
 
         //Lineas circulos naranja
         Line2D linea11 = new Line2D.Double(116,255,116,270);
