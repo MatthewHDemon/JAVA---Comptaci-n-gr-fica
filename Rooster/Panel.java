@@ -11,7 +11,7 @@ import java.awt.Polygon;
 
 public class Panel extends JPanel {
 
-    public void paint(Graphics g) {
+    public void paint(Graphics g) { 
         Graphics2D g2 = (Graphics2D) g;
 
         int puntosX1[] = { 200, 240, 260, 220, 180 };
